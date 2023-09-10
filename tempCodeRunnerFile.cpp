@@ -1,0 +1,2 @@
+
+    float fa=f(a);
